@@ -14,4 +14,4 @@
 
 ##First chance in the Develop
 
-![Title](Downloads/ejemplo-git/Rebase.png "Imagen 1")
+![Imagen](Rebase.png "Imagen 1")
